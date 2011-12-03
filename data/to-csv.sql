@@ -1,0 +1,1 @@
+SELECT * INTO OUTFILE '/tmp/result.csv' FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' from multa;
