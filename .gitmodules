@@ -1,0 +1,6 @@
+[submodule "lib/bootstrap"]
+	path = lib/bootstrap
+	url = https://github.com/twitter/bootstrap.git
+[submodule "lib/d3"]
+	path = lib/d3
+	url = https://github.com/mbostock/d3.git
