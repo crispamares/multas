@@ -1,0 +1,12 @@
+[submodule "lib/d3"]
+	path = lib/d3
+	url = https://github.com/mbostock/d3.git
+[submodule "lib/backbone"]
+	path = lib/backbone
+	url = https://github.com/documentcloud/backbone.git
+[submodule "lib/bootstrap"]
+	path = lib/bootstrap
+	url = https://github.com/twitter/bootstrap.git
+[submodule "lib/jquery"]
+	path = lib/jquery
+	url = https://github.com/jquery/jquery.git
